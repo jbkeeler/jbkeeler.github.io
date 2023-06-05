@@ -3,11 +3,11 @@ main:
   - title: "CV"
     url: /files/James_K_CV.pdf
 
-  - title: "Research"
-    url: /research/    
+  # - title: "Research"
+  #   url: /research/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  # - title: "Teaching"
+  #   url: /teaching/    
 
   - title: "JMP"
     url: /files/James_K_JMP.pdf  
