@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a PhD student at the University of California, Davis in the [Department of Agricultural &amp; Resource Economics](https://are.ucdavis.edu/). I use economic theory and empirical methods to study issues at the forefront of Agricultural Policy. 
+I am a PhD student at the University of California, Davis in the [Department of Agricultural &amp; Resource Economics](https://are.ucdavis.edu/). I use economic theory and empirical methods to study issues at the forefront of agricultural policy. 
 
 My dissertation adresses the assertions and implications of Right to Repair policies in the agricultural industry and broader economy. I have also published and continue to develop research studying the USDA RMA's Pasture, Rangeland, and Forage Insurance Program.
 
