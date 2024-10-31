@@ -13,4 +13,4 @@ I am a PhD student at the University of California, Davis in the [Department of 
 
 My dissertation addresses the assertions, evidence, and implications of Right to Repair policies in the agricultural industry and broader economy. I have also published and continue to develop research studying the USDA RMA's Pasture, Rangeland, and Forage Insurance Program.
 
-I am on the 2023-2024 Job Market.
+I am on the 2024-2025 Job Market.
