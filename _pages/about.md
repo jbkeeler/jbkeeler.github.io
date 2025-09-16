@@ -9,8 +9,10 @@ redirect_from:
 ---
 
 
-I am a PhD student at the University of California, Davis in the [Department of Agricultural &amp; Resource Economics](https://are.ucdavis.edu/). I use economic theory and empirical methods to study issues at the forefront of agricultural policy. 
+I am a Postdoctoral Scholar at the University of California, Davis in the [Department of Agricultural &amp; Resource Economics](https://are.ucdavis.edu/). I use economic theory and empirical methods to study issues at the forefront of agricultural policy. 
 
-My dissertation addresses the assertions, evidence, and implications of Right to Repair policies in the agricultural industry and broader economy. I have also published and continue to develop research studying the USDA RMA's Pasture, Rangeland, and Forage Insurance Program.
+My dissertation addresses the assertions, evidence, and implications of Right to Repair policies in the agricultural industry and broader economy. I've also published and continue to develop research studying the USDA RMA's Pasture, Rangeland, and Forage Insurance Program. As a Postdoc for Rachael Goodhue, my work has covered pesticide regulation and crop disease management in California, while mentoring PhD students along the way.
 
-I am on the 2024-2025 Job Market.
+In my free time I enjoy reading (mostly nonfiction), learning new programming languages and and their applications, walking and rowing for exercise, and staying in touch with family back in Nebraska.
+
+I am on the 2025-2026 Job Market.
