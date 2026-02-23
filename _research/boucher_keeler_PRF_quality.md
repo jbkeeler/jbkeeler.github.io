@@ -1,5 +1,5 @@
 ---
-title: "Evaluating the Quality of Rainfall Index Insurance for California Pasture"
+title: "Pasture, Rangeland, and Forage Index Insurance: Premium Subsidies and Contract Quality"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 # excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
